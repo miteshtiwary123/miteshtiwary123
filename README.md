@@ -6,8 +6,8 @@
 
 
 ## 🚀 About Me
-I am a full stack data scientist.
-I seek a challenging position in the area of Data Science, Machine Learning, Data Analysis & related fields where I can share my skills and expand my capabilities further in the pursuit of progressive career advancement.
+I am a full stack developer.
+I seek a challenging position in the area of Data Science, Web Development, Machine Learning, Data Analysis & related fields where I can share my skills and expand my capabilities further in the pursuit of progressive career advancement.
 
 
 
@@ -18,18 +18,18 @@ I seek a challenging position in the area of Data Science, Machine Learning, Dat
 ## 🛠 Skills
 1. Python
 2. Machine Learning
-3. Deep Learning
-4. Data Science
-5. SQL
-6. Tableau
-7. Power BI
-8. Artificial Intelligence
-9. Cloud Services
+3. Web Development Framework - (Django, Flask, FastAPI)
+4. API Development
+6. Data Science
+7. SQL- (Postgres, MySql)
+9. Tableau
+10. Artificial Intelligence
+11. Cloud Services- (AWS)
 
 
 ## Other 
-👩‍💻 I'm currently working on as a Freelancer
+👩‍💻 I'm currently working on Obey Jobs Private Limited as Software Developer.
 
 🧠 I'm currently learning new insights in Machine learning and Artificial Intelligency
 
-👯‍♀️ I'm looking to collaborate on Data Science and Machine learning Projects.
+👯‍♀️ I'm looking to collaborate on Django Development, Data Science and Machine learning Projects.
